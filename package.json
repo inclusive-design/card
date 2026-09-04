@@ -1,7 +1,7 @@
 {
-  "name": "@inclusive-design/web-component",
+  "name": "@inclusive-design/card",
   "version": "0.1.0",
-  "description": "Web component template for the Inclusive Design Research Centre",
+  "description": "Card web component for the Inclusive Design Research Centre",
   "main": "dist/bundle.js",
   "type": "module",
   "scripts": {
@@ -19,20 +19,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/inclusive-design/web-component.git"
+    "url": "git+https://github.com/inclusive-design/card.git"
   },
   "keywords": [
-    "component",
-    "disclosure",
-    "aria",
-    "web-component"
+    "card",
+    "web-component",
+    "elena"
   ],
   "author": "OCAD University <idrc@ocadu.ca>",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/inclusive-design/web-component/issues"
+    "url": "https://github.com/inclusive-design/card/issues"
   },
-  "homepage": "https://github.com/inclusive-design/web-component#readme",
+  "homepage": "https://github.com/inclusive-design/card#readme",
   "dependencies": {
     "@elenajs/core": "^1.0.0"
   },

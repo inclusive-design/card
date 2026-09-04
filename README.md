@@ -1,7 +1,7 @@
-# Inclusive Web Component
+# Inclusive Card
 
-Add description of web component here.
+A web component for a card with a link.
 
 ## Usage
 
-Add usage instructions here.
+TODO.
