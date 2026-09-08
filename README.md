@@ -1,5 +1,7 @@
 # Inclusive Card
 
+**NOTE: Now maintained at [inclusive-design/components](https://github.com/inclusive-design/components).**
+
 A card web component for the Inclusive Design Research Centre.
 
 ## Usage
